@@ -235,6 +235,7 @@ Verfügbare Sprachen:\
 [Karibisch (car)](Karibisch (car))\
 [Kasachisch (kk)](Kasachisch (kk))\
 [Kaschmirisch (ks)](Kaschmirisch (ks))\
+[Kabardian (kbd)](Kabardian (kbd))\
 [Kaschubisch (csb)](Kaschubisch (csb))\
 [Katalanisch (ca)](Katalanisch (ca))\
 [Kawi (kaw)](Kawi (kaw))\
@@ -244,6 +245,7 @@ Verfügbare Sprachen:\
 [Khotta (mag)](Khotta (mag))\
 [Khowar (khw)](Khowar (khw))\
 [Kikuyu (ki)](Kikuyu (ki))\
+[Krymchak (jct)](Krymchak (jct))\
 [Kimbundu-Sprache (kmb)](Kimbundu-Sprache (kmb))\
 [Kinaray-a (krj)](Kinaray-a (krj))\
 [Kirchenslawisch (cu)](Kirchenslawisch (cu))\
@@ -273,6 +275,7 @@ Verfügbare Sprachen:\
 [Krio (kri)](Krio (kri))\
 [Kroatisch (hr)](Kroatisch (hr))\
 [Kumükisch (kum)](Kumükisch (kum))\
+[Northern Kurdish (kmr)](Northern Kurdish (kmr))\
 [Kurdisch (ku)](Kurdisch (ku))\
 [Kutchin-Sprache (gwi)](Kutchin-Sprache (gwi))\
 [Kutenai-Sprache (kut)](Kutenai-Sprache (kut))\
@@ -287,10 +290,12 @@ Verfügbare Sprachen:\
 [Lasisch (lzz)](Lasisch (lzz))\
 [Latein (la)](Latein (la))\
 [Lateinamerikanisches Spanisch (es_419)](Lateinamerikanisches Spanisch (es_419))\
+[Laz (lzz)](Laz (lzz))\
 [Lesgisch (lez)](Lesgisch (lez))\
 [Lettgallisch (ltg)](Lettgallisch (ltg))\
 [Lettisch (lv)](Lettisch (lv))\
 [Ligurisch (lij)](Ligurisch (lij))\
+[Lishana Deni (lsd)](Lishana Deni (lsd))\
 [Limburgisch (li)](Limburgisch (li))\
 [Lingala (ln)](Lingala (ln))\
 [Lingua Franca Nova (lfn)](Lingua Franca Nova (lfn))\
@@ -342,6 +347,7 @@ Verfügbare Sprachen:\
 [Mentawai (mwv)](Mentawai (mwv))\
 [Meru (mer)](Meru (mer))\
 [Meta’ (mgo)](Meta’ (mgo))\
+[Megleno Romanian (ruq)](Megleno Romanian (ruq))\
 [Mexikanisches Spanisch (es_MX)](Mexikanisches Spanisch (es_MX))\
 [Miao-Sprache (hmn)](Miao-Sprache (hmn))\
 [Micmac-Sprache (mic)](Micmac-Sprache (mic))\
